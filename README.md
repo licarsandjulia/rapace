@@ -1,0 +1,2 @@
+# rapace
+Personal intelligent assistant
